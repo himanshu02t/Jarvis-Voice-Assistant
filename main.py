@@ -1,6 +1,5 @@
 import speech_recognition as sr
 import webbrowser
-import pyttsx3
 import time
 import musicLibrary
 import newsLibrary
